@@ -1,7 +1,7 @@
 [![MasterHead](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5)](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5)
 <h1 align="center">Hi 👋, I'm Julien</h1>
 <h3 align="center">A passionate data analyst from London.</h3>
-<img align="right" alt="coding" img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300">
+<img align="right" alt="coding" img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="250">
 
 - 🔭 I’m currently working on [Customer Loans In Finance](https://github.com/julienhvillemur/exploratory-data-analysis---customer-loans-in-finance561.git)
 
