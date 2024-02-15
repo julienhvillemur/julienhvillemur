@@ -3,8 +3,6 @@
 <h3 align="center">A passionate data analyst from London.</h3>
 <img align="right" alt="coding" img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="250">
 
-- 🔭 I’m currently working on [Customer Loans In Finance](https://github.com/julienhvillemur/exploratory-data-analysis---customer-loans-in-finance561.git)
-
 - 🌱 I’m currently learning **PL-300 grade Power BI data analysis skills.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/julienhvillemur](https://github.com/julienhvillemur)
